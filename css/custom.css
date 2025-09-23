@@ -1,56 +1,10 @@
-/* ----------------------------------------------------------------------------------------
-* Author        : Awaiken
-* Template Name : Dermal - Dermatologist & Cosmetology Clinic HTML Template
-* File          : CSS File
-* Version       : 1.0
-* ---------------------------------------------------------------------------------------- */
-/* INDEX
-----------------------------------------------------------------------------------------
-01. Global Variables
-02. General css
-03. Header css
-04. Hero css
-05. About Us css
-06. Our Service css
-07. Why Choose Us css
-08. Our Process css
-09. How We Work css
-10. Our Benefit css	
-11. Our Result css
-12. Our FAQs css
-13. Our Testimonials css
-14. Our Team css
-15. Our Blog css
-16. Book Appointment css
-17. Scrolling Ticker css
-18. Footer css
-19. About Us Page css
-20. Services Page css
-21. Service Single css
-22. Blog Archive css
-23. Blog Single css
-24. Case Study Page css
-25. Case Stydy Single css
-26. Team Page css
-27. Team Single css
-28. Testimonial Page css
-29. Image Gallery css
-30. Video Gallery css
-31. FAQs Page css
-32. Contact Us Page css
-33. Book Appoiment Page css
-34. 404 Error Page css
-35. Responsive css
--------------------------------------------------------------------------------------- */
 
-/************************************/
-/*** 	 01. Global Variables	  ***/
-/************************************/
 
 :root{
-	--primary-color				: #1C4942;
+ 
+	--primary-color				: #8B003B;
 	--secondary-color			: #F7F0F2;
-	--text-color				: #7B798C;
+	--text-color				: #262626;
 	--accent-color				: #24544B;
 	--accent-secondary-color	: #FEF7F8;
 	--white-color				: #FFFFFF;
