@@ -4,7 +4,9 @@
  
 	--primary-color				: #f33a87ff;
 	--secondary-color			: #F7F0F2;
-	--text-color				: #262626;
+	--text-color				: #0c0b0b;
+	/* --text-color				: #262626; */
+
 	--accent-color				: #f33a87ff;
 	--accent-secondary-color	: #FEF7F8;
 	--white-color				: #FFFFFF;
@@ -1662,7 +1664,7 @@ header.main-header .header-sticky.active{
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: linear-gradient(180deg, rgba(0, 0, 0, 0) 52.13%, rgba(28, 73, 66, 0.9) 81.58%);
+	background: linear-gradient(180deg, rgba(0, 0, 0, 0) 52.13%, #f33a87 81.58%);
 	width: 100%;
 	height: 100%;
 }
@@ -3808,7 +3810,7 @@ header.main-header .header-sticky.active{
 	right: 0;
 	bottom: 0;
 	left: 0;
-    background: linear-gradient(transparent 1%, #000000 99%);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 52.13%, #f33a87 81.58%);
 	width: 100%;
 	height: 100%;
 }
