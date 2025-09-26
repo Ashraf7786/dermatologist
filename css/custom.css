@@ -5123,7 +5123,7 @@ header.main-header .header-sticky.active{
     right: 0;
     bottom: 0;
     left: 0;
-    background: linear-gradient(180deg, rgba(28, 73, 66, 0) 63.4%, rgba(28, 73, 66, 0.8) 93.4%);
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 52.13%, #f33a87 81.58%);
     border-radius: 30px;
 }
 
